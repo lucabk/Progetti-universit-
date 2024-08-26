@@ -40,4 +40,4 @@ Raspberry tramite protocollo seriale e creazione di un database per il salvatagg
 
 
 ##### Nota
-Quasi tutti i progetti sono stati svolti in gruppi; gli altri componenti del gruppo sono citati nelle rispettive relazioni.
+Quasi tutti i progetti sono stati svolti in gruppi; gli altri componenti del gruppo, oltre il sottoscritto, sono citati nelle rispettive relazioni.
