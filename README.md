@@ -36,3 +36,8 @@ e visualizzazione dei dati su schermo OLED.
 - Successiva acquisizione dei dati da parte di una
 Raspberry tramite protocollo seriale e creazione di un database per il salvataggio degli stessi
 - Interfaccia web e bot Telegram per la consultazione dei dati e invio di alert.
+
+
+
+##### Nota
+Quasi tutti i progetti sono stati svolti in gruppi; gli altri componenti del gruppo sono citati nelle rispettive relazioni.
