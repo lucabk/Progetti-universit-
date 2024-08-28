@@ -21,11 +21,11 @@ dei dati.
 - Creazione di un chatbot tramite il framework RASA. 
 - Sentiment analysis (BERT).
 
-## Manutenzione Preventiva per la Robotica e l'Automazione Intelligente:
+## Manutenzione Preventiva per la Robotica e l'Automazione Intelligente
 - Realizzazione di una connessione Software In The Loop (SITL) tra PX4 e Gazebo per lo studio dei
 log di segnale e la simulazione di guasti di droni.
 
-## New Generation Databases:
+## New Generation Databases
 - Tesina compilativa sulle attuali tecniche di machine learning disponibili per la gestione dei database.
 
 ## Project Management
