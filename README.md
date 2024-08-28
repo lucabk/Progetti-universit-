@@ -29,14 +29,6 @@ log di segnale e la simulazione di guasti di droni.
 - Realizzazione individuale di un progetto simulato seguendo le tecniche PMI, delineando 
 dettagliatamente tutte le fasi di sviluppo. 
 
-## Sistemi Operativi Dedicati:
-- Implementazione di un sistema comprensivo di un microcontrollore (ESP32) per il monitoraggio di
-parametri ambientali, quali temperatura e pressione, gestione di una ventola tramite segnale PWM
-e visualizzazione dei dati su schermo OLED.
-- Successiva acquisizione dei dati da parte di una
-Raspberry tramite protocollo seriale e creazione di un database per il salvataggio degli stessi
-- Interfaccia web e bot Telegram per la consultazione dei dati e invio di alert.
-
 
 
 ##### Nota
