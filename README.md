@@ -24,9 +24,7 @@ dei dati.
 ## Manutenzione Preventiva per la Robotica e l'Automazione Intelligente
 - Realizzazione di una connessione Software In The Loop (SITL) tra PX4 e Gazebo per lo studio dei
 log di segnale e la simulazione di guasti di droni.
-
-## New Generation Databases
-- Tesina compilativa sulle attuali tecniche di machine learning disponibili per la gestione dei database.
+dei database.
 
 ## Project Management
 - Realizzazione individuale di un progetto simulato seguendo le tecniche PMI, delineando 
