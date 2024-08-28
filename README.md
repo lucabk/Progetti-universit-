@@ -1,6 +1,7 @@
 # Progetti universitari 
 
-Nella seguebte repository sono contenute le relazioni ed il materiale relativi ad esami universitari. 
+Nella seguebte repository sono contenute le relazioni ed il materiale relativi ad esami universitari. Quasi tutti i progetti sono stati svolti in gruppi; gli altri componenti del gruppo, oltre il sottoscritto, sono citati nelle rispettive relazioni.
+
   
 ## Advanced Cybersecurity for IT
 - Creazione di una rete interna sicura con meccanismi di rifiuto delle connessioni non accettate e 
@@ -31,7 +32,3 @@ log di segnale e la simulazione di guasti di droni.
 - Realizzazione individuale di un progetto simulato seguendo le tecniche PMI, delineando 
 dettagliatamente tutte le fasi di sviluppo. 
 
-
-
-##### Nota
-Quasi tutti i progetti sono stati svolti in gruppi; gli altri componenti del gruppo, oltre il sottoscritto, sono citati nelle rispettive relazioni.
