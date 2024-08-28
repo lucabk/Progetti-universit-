@@ -1,5 +1,7 @@
-# Progetti universitari suddivisi per materia
+# Progetti universitari 
 
+Nella seguebte repository sono contenute le relazioni ed il materiale relativi ad esami universitari. 
+  
 ## Advanced Cybersecurity for IT
 - Creazione di una rete interna sicura con meccanismi di rifiuto delle connessioni non accettate e 
 allerta del sistema.
